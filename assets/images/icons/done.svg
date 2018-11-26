@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="10px" viewBox="0 0 13 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Option</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Option-|-Done" transform="translate(-3.000000, -4.000000)" fill="#FFFFFF">
+            <g id="Option" transform="translate(3.000000, 4.000000)">
+                <path d="M4.61377052,8.89739037 C4.5897137,8.92782318 4.56363483,8.95718045 4.53553391,8.98528137 C4.14500961,9.37580567 3.51184464,9.37580567 3.12132034,8.98528137 L0.292893219,6.15685425 C-0.0976310729,5.76632996 -0.0976310729,5.13316498 0.292893219,4.74264069 C0.683417511,4.3521164 1.31658249,4.3521164 1.70710678,4.74264069 L3.83578644,6.87132034 L10.4142136,0.292893219 C10.8047379,-0.0976310729 11.4379028,-0.0976310729 11.8284271,0.292893219 C12.2189514,0.683417511 12.2189514,1.31658249 11.8284271,1.70710678 L4.75735931,8.77817459 C4.71245813,8.82307577 4.66434933,8.86281436 4.61377052,8.89739037 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

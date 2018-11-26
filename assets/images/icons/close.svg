@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="1.72254642e-14%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0072FF" offset="0%"></stop>
+            <stop stop-color="#00C6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Button-Fechar" transform="translate(-18.000000, -18.000000)" fill="url(#linearGradient-1)">
+            <g id="Fechar">
+                <path d="M23.92,23.92 L23.92,17.08 C23.92,16.4835325 24.4035325,16 25,16 C25.5964675,16 26.08,16.4835325 26.08,17.08 L26.08,23.92 L32.92,23.92 C33.5164675,23.92 34,24.4035325 34,25 C34,25.5964675 33.5164675,26.08 32.92,26.08 L26.08,26.08 L26.08,32.92 C26.08,33.5164675 25.5964675,34 25,34 C24.4035325,34 23.92,33.5164675 23.92,32.92 L23.92,26.08 L17.08,26.08 C16.4835325,26.08 16,25.5964675 16,25 C16,24.4035325 16.4835325,23.92 17.08,23.92 L23.92,23.92 Z" id="Menu" transform="translate(25.000000, 25.000000) rotate(45.000000) translate(-25.000000, -25.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon | Sucesso</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="1.72254642e-14%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0072FF" offset="0%"></stop>
+            <stop stop-color="#00C6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Modal-|-Sucesso" transform="translate(-186.000000, -319.000000)">
+            <g id="Modal-Sucesso">
+                <g id="Group-3" transform="translate(0.000000, 241.000000)">
+                    <g id="Group-4" transform="translate(167.000000, 0.000000)">
+                        <g id="Icon-|-Sucesso" transform="translate(19.000000, 78.000000)">
+                            <g id="Group-2">
+                                <circle id="Oval" fill="#FFFFFF" cx="42.5" cy="42.5" r="42.5"></circle>
+                                <path d="M37.3356655,55.9135887 C36.8165269,55.9192529 36.2956035,55.7240306 35.8994949,55.3279221 L24.5857864,44.0142136 C23.8047379,43.233165 23.8047379,41.966835 24.5857864,41.1857864 C25.366835,40.4047379 26.633165,40.4047379 27.4142136,41.1857864 L37.4101551,51.181728 L58.0060967,30.5857864 C58.7871452,29.8047379 60.0534752,29.8047379 60.8345238,30.5857864 C61.6155724,31.366835 61.6155724,32.633165 60.8345238,33.4142136 L38.9142136,55.3345238 C38.481857,55.7668803 37.9007968,55.959902 37.3356655,55.9135887 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

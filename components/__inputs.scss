@@ -1,0 +1,45 @@
+/*
+========================================================
+
+                Text, Password, Submit
+
+========================================================
+*/
+
+.inputText,
+.inputPassword,
+.inputTel {
+    width: 100%;
+    height: 55px;
+    border-radius: 100px;
+    // @extend .font-bold-15px;
+    // @extend .color-white;
+    // @extend .border-white;
+    // @extend .padding-left-70px;
+    background-color: transparent;
+
+    // &.email,
+    // &.name {
+    //     background: url(../../img/icons/user.svg) 20px center no-repeat;
+    //     background-size: 28px;
+    //     background-color: transparent;
+    // }
+
+    // &.password {
+    //     background: url(../../img/icons/password.svg) 30px center no-repeat;
+    //     background-size: 23px;
+    //     background-color: transparent;
+    // }
+
+    // &.token {
+    //     background: url(../../img/icons/token.svg) 22px center no-repeat;
+    //     background-size: 28px;
+    //     background-color: transparent;
+    // }
+
+    // &.telephone {
+    //     background: url(../../img/icons/telephone.svg) 26px center no-repeat;
+    //     background-size: 24px;
+    //     background-color: transparent;
+    // }
+}

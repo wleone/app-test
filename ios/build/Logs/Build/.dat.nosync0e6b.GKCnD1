@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>FCCD524B-E7BB-4318-81FF-5DE01677A832</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FCCD524B-E7BB-4318-81FF-5DE01677A832.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>medpass project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>medpass</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project medpass with scheme medpass and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564940541.79793</real>
+			<key>timeStoppedRecording</key>
+			<real>564940543.80248702</real>
+			<key>title</key>
+			<string>Building project medpass with scheme medpass and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FCCD524B-E7BB-4318-81FF-5DE01677A832</string>
+		</dict>
+		<key>FF634095-007D-40BE-A0B9-2710BA812068</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FF634095-007D-40BE-A0B9-2710BA812068.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>medpass project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>medpass</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project medpass with scheme medpass and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>564940688.92856002</real>
+			<key>timeStoppedRecording</key>
+			<real>564940691.016855</real>
+			<key>title</key>
+			<string>Building project medpass with scheme medpass and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FF634095-007D-40BE-A0B9-2710BA812068</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

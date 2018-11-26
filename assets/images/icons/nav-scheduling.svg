@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="83px" viewBox="0 0 80 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-16.0%" y="-78.3%" width="132.0%" height="204.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="-30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bottom-Bar" transform="translate(-185.000000, 10.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g filter="url(#filter-1)" transform="translate(0.000000, 25.000000)" id="Links">
+                <g transform="translate(38.000000, 21.000000)">
+                    <g id="Group-2-Copy-2" transform="translate(151.333333, 3.000000)">
+                        <path d="M43.5555556,0 L28.8888889,0 C27.5444444,0 26.4444444,1.08 26.4444444,2.4 L26.4444444,4.8 L25.2222222,4.8 C24.4888889,4.8 24,5.28 24,6 C24,6.72 24.4888889,7.2 25.2222222,7.2 L26.4444444,7.2 L26.4444444,10.8 L25.2222222,10.8 C24.4888889,10.8 24,11.28 24,12 C24,12.72 24.4888889,13.2 25.2222222,13.2 L26.4444444,13.2 L26.4444444,16.8 L25.2222222,16.8 C24.4888889,16.8 24,17.28 24,18 C24,18.72 24.4888889,19.2 25.2222222,19.2 L26.4444444,19.2 L26.4444444,21.6 C26.4444444,22.92 27.5444444,24 28.8888889,24 L43.5555556,24 C44.9,24 46,22.92 46,21.6 L46,2.4 C46,1.08 44.9,0 43.5555556,0 Z M29,21 L29,18.625 L30.25,18.625 C31,18.625 31.5,18.15 31.5,17.4375 C31.5,16.725 31,16.25 30.25,16.25 L29,16.25 L29,12.6875 L30.25,12.6875 C31,12.6875 31.5,12.2125 31.5,11.5 C31.5,10.7875 31,10.3125 30.25,10.3125 L29,10.3125 L29,6.75 L30.25,6.75 C31,6.75 31.5,6.275 31.5,5.5625 C31.5,4.85 31,4.375 30.25,4.375 L29,4.375 L29,2 L44,2 L44,21 L29,21 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
