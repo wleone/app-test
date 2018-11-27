@@ -6,7 +6,6 @@
 	objectVersion = 46;
 	objects = {
 /* Begin PBXBuildFile section */
-		008B127DCD854528B1D6F745 /* CircularStd-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = F66D211685EB4D5880B7110D /* CircularStd-Black.otf */; };
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
 		00C302E81ABCBA2D00DB3ED1 /* libRCTImage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302C01ABCB91800DB3ED1 /* libRCTImage.a */; };
@@ -23,7 +22,6 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
-		1694F668068E4821B7B6514D /* CircularStd-Book.woff in Resources */ = {isa = PBXBuildFile; fileRef = DB060366BEA549089DD253E7 /* CircularStd-Book.woff */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -34,35 +32,13 @@
 		2D02E4C61E0B4AEC006451C7 /* libRCTSettings-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E901DF850E9000B6D8A /* libRCTSettings-tvOS.a */; };
 		2D02E4C71E0B4AEC006451C7 /* libRCTText-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E941DF850E9000B6D8A /* libRCTText-tvOS.a */; };
 		2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E991DF850E9000B6D8A /* libRCTWebSocket-tvOS.a */; };
-		2D04B027796347798BC4E1EA /* libSRSRadialGradien-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C22E9F7D7064AB59D5CF911 /* libSRSRadialGradien-tvOS.a */; };
 		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* medpassTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* medpassTests.m */; };
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
-		375C610898B844248DDD8B90 /* CircularStd-Bold.woff in Resources */ = {isa = PBXBuildFile; fileRef = 32217A697FF4427192DD8666 /* CircularStd-Bold.woff */; };
-		590CC99FC16F4AEFB4253EBF /* CircularStd-Black.woff in Resources */ = {isa = PBXBuildFile; fileRef = E890BEE932B64B928107CB84 /* CircularStd-Black.woff */; };
-		5D7E8056CF8C4BB0A73FB9A0 /* CircularStd-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 11CAF11396874B86ABFA3ADF /* CircularStd-Book.otf */; };
-		657DFB1220F74CBAAA0BFA01 /* CircularStd-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 28D5FB6256344CA2AA146712 /* CircularStd-Book.otf */; };
-		7A52A3A9122B4E37A5797BCF /* CircularStd-Medium.woff in Resources */ = {isa = PBXBuildFile; fileRef = 43715BC403A14746A310DBD8 /* CircularStd-Medium.woff */; };
-		7DD6E3ED02314400ADB9BCDD /* libSRSRadialGradient.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 432F89312BC642778FFC5F25 /* libSRSRadialGradient.a */; };
-		7E0BD613AA214F66B291E8D5 /* CircularStd-Medium.woff in Resources */ = {isa = PBXBuildFile; fileRef = 5D7B79E15E3841CCBEE47018 /* CircularStd-Medium.woff */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		90E72899921946FDB52EA5F0 /* CircularStd-Bold.woff in Resources */ = {isa = PBXBuildFile; fileRef = CFD7C213949D4B68B486A9F2 /* CircularStd-Bold.woff */; };
-		933E8FCCCA294CF781D5B967 /* CircularStd-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6933D526619C405D9AE13199 /* CircularStd-Medium.otf */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
-		BB985735C26440DF992E4327 /* CircularStd-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0FF8B625423041E69F18F725 /* CircularStd-Bold.otf */; };
-		C6569458C98643259519EA54 /* CircularStd-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6C3016312BA74E26B6314121 /* CircularStd-Medium.otf */; };
-		CE14C64B266D4DBBB6A0ADE4 /* CircularStd-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0E84CB588ADB4FBC869B2A6C /* CircularStd-Black.otf */; };
-		E8CD802932174AC88C9331CE /* CircularStd-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E1096FF661194A5988ED0ECC /* CircularStd-Bold.otf */; };
-		F03855A061AF4C088298CDCB /* CircularStd-Black.woff in Resources */ = {isa = PBXBuildFile; fileRef = 22B9CBF3D4904BF088EBD0DF /* CircularStd-Black.woff */; };
-		FAB39BB67B1542DC9010369E /* CircularStd-Book.woff in Resources */ = {isa = PBXBuildFile; fileRef = 5FDD8CD482C849D297213235 /* CircularStd-Book.woff */; };
-		CC1D0184FED340AFBD3BF4E5 /* CircularStd-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = AFD4A31865104B519F43EB94 /* CircularStd-Black.otf */; };
-		148654567D2348389195877C /* CircularStd-Black.woff in Resources */ = {isa = PBXBuildFile; fileRef = 4FBB8B9F3F7941E69F53B8A0 /* CircularStd-Black.woff */; };
-		F9873E172EB349F1BB220D34 /* CircularStd-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 983BB3AF82B64CFA97FF3410 /* CircularStd-Bold.otf */; };
-		C79C5C06CFD443E9B9598360 /* CircularStd-Bold.woff in Resources */ = {isa = PBXBuildFile; fileRef = 327CA54ABD3347D9819289A0 /* CircularStd-Bold.woff */; };
-		7F749F00BEDC4F76B4CBFFA2 /* CircularStd-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 084A2388773E46899A66A479 /* CircularStd-Book.otf */; };
-		7C6FF7AE58154CE2A84CC2C2 /* CircularStd-Book.woff in Resources */ = {isa = PBXBuildFile; fileRef = EC42ECA093B34FD485869822 /* CircularStd-Book.woff */; };
-		E455C107CD6D494284B90B2C /* CircularStd-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 62F98DE4697F4C4E93FBE054 /* CircularStd-Medium.otf */; };
-		A6B6704D2C284A3D84B101A7 /* CircularStd-Medium.woff in Resources */ = {isa = PBXBuildFile; fileRef = 40EB750EE3AB469EB59E79A1 /* CircularStd-Medium.woff */; };
+		C9D38451F89E4BD294A18301 /* libSRSRadialGradient.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D2A8067079F48DA89632F23 /* libSRSRadialGradient.a */; };
+		94D1606C91D8444388BBC07D /* libSRSRadialGradien-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 26E75162148E47C0BA29144D /* libSRSRadialGradien-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -332,20 +308,6 @@
 			remoteGlobalIDString = 58B5119B1A9E6C1200147676;
 			remoteInfo = RCTText;
 		};
-		A758887321AC4E71000EF36C /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = F61AA6A0904B43CD8F9025A5 /* SRSRadialGradient.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 134814201AA4EA6300B7C361;
-			remoteInfo = SRSRadialGradient;
-		};
-		A758887521AC4E71000EF36C /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = F61AA6A0904B43CD8F9025A5 /* SRSRadialGradient.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 47413E2820DBB5D000CCDA85;
-			remoteInfo = "SRSRadialGradien-tvOS";
-		};
 		ADBDB9261DFEBF0700ED6528 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */;
@@ -365,9 +327,6 @@
 		00E356EE1AD99517003FC87E /* medpassTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = medpassTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* medpassTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = medpassTests.m; sourceTree = "<group>"; };
-		0E84CB588ADB4FBC869B2A6C /* CircularStd-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Black.otf"; path = "../assets/fonts/CircularStd/CircularStd-Black.otf"; sourceTree = "<group>"; };
-		0FF8B625423041E69F18F725 /* CircularStd-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Bold.otf"; path = "../assets/fonts/CircularStd-Bold.otf"; sourceTree = "<group>"; };
-		11CAF11396874B86ABFA3ADF /* CircularStd-Book.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Book.otf"; path = "../assets/fonts/CircularStd-Book.otf"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* medpass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = medpass.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -378,37 +337,16 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = medpass/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = medpass/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
-		1C22E9F7D7064AB59D5CF911 /* libSRSRadialGradien-tvOS.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = "libSRSRadialGradien-tvOS.a"; sourceTree = "<group>"; };
-		22B9CBF3D4904BF088EBD0DF /* CircularStd-Black.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Black.woff"; path = "../assets/fonts/CircularStd/CircularStd-Black.woff"; sourceTree = "<group>"; };
-		28D5FB6256344CA2AA146712 /* CircularStd-Book.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Book.otf"; path = "../assets/fonts/CircularStd/CircularStd-Book.otf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* medpass-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "medpass-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* medpass-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "medpass-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		32217A697FF4427192DD8666 /* CircularStd-Bold.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Bold.woff"; path = "../assets/fonts/CircularStd/CircularStd-Bold.woff"; sourceTree = "<group>"; };
-		432F89312BC642778FFC5F25 /* libSRSRadialGradient.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libSRSRadialGradient.a; sourceTree = "<group>"; };
-		43715BC403A14746A310DBD8 /* CircularStd-Medium.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Medium.woff"; path = "../assets/fonts/CircularStd/CircularStd-Medium.woff"; sourceTree = "<group>"; };
-		5D7B79E15E3841CCBEE47018 /* CircularStd-Medium.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Medium.woff"; path = "../assets/fonts/CircularStd-Medium.woff"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
-		5FDD8CD482C849D297213235 /* CircularStd-Book.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Book.woff"; path = "../assets/fonts/CircularStd-Book.woff"; sourceTree = "<group>"; };
-		6933D526619C405D9AE13199 /* CircularStd-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Medium.otf"; path = "../assets/fonts/CircularStd/CircularStd-Medium.otf"; sourceTree = "<group>"; };
-		6C3016312BA74E26B6314121 /* CircularStd-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Medium.otf"; path = "../assets/fonts/CircularStd-Medium.otf"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
-		CFD7C213949D4B68B486A9F2 /* CircularStd-Bold.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Bold.woff"; path = "../assets/fonts/CircularStd-Bold.woff"; sourceTree = "<group>"; };
-		DB060366BEA549089DD253E7 /* CircularStd-Book.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Book.woff"; path = "../assets/fonts/CircularStd/CircularStd-Book.woff"; sourceTree = "<group>"; };
-		E1096FF661194A5988ED0ECC /* CircularStd-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Bold.otf"; path = "../assets/fonts/CircularStd/CircularStd-Bold.otf"; sourceTree = "<group>"; };
-		E890BEE932B64B928107CB84 /* CircularStd-Black.woff */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Black.woff"; path = "../assets/fonts/CircularStd-Black.woff"; sourceTree = "<group>"; };
-		F61AA6A0904B43CD8F9025A5 /* SRSRadialGradient.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = SRSRadialGradient.xcodeproj; path = "../node_modules/react-native-radial-gradient/ios/SRSRadialGradient.xcodeproj"; sourceTree = "<group>"; };
-		F66D211685EB4D5880B7110D /* CircularStd-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularStd-Black.otf"; path = "../assets/fonts/CircularStd-Black.otf"; sourceTree = "<group>"; };
-		AFD4A31865104B519F43EB94 /* CircularStd-Black.otf */ = {isa = PBXFileReference; name = "CircularStd-Black.otf"; path = "../assets/fonts/CircularStd/CircularStd-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4FBB8B9F3F7941E69F53B8A0 /* CircularStd-Black.woff */ = {isa = PBXFileReference; name = "CircularStd-Black.woff"; path = "../assets/fonts/CircularStd/CircularStd-Black.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		983BB3AF82B64CFA97FF3410 /* CircularStd-Bold.otf */ = {isa = PBXFileReference; name = "CircularStd-Bold.otf"; path = "../assets/fonts/CircularStd/CircularStd-Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		327CA54ABD3347D9819289A0 /* CircularStd-Bold.woff */ = {isa = PBXFileReference; name = "CircularStd-Bold.woff"; path = "../assets/fonts/CircularStd/CircularStd-Bold.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		084A2388773E46899A66A479 /* CircularStd-Book.otf */ = {isa = PBXFileReference; name = "CircularStd-Book.otf"; path = "../assets/fonts/CircularStd/CircularStd-Book.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		EC42ECA093B34FD485869822 /* CircularStd-Book.woff */ = {isa = PBXFileReference; name = "CircularStd-Book.woff"; path = "../assets/fonts/CircularStd/CircularStd-Book.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		62F98DE4697F4C4E93FBE054 /* CircularStd-Medium.otf */ = {isa = PBXFileReference; name = "CircularStd-Medium.otf"; path = "../assets/fonts/CircularStd/CircularStd-Medium.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		40EB750EE3AB469EB59E79A1 /* CircularStd-Medium.woff */ = {isa = PBXFileReference; name = "CircularStd-Medium.woff"; path = "../assets/fonts/CircularStd/CircularStd-Medium.woff"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		27EC371D81084CC2B83D0B2D /* SRSRadialGradient.xcodeproj */ = {isa = PBXFileReference; name = "SRSRadialGradient.xcodeproj"; path = "../node_modules/react-native-radial-gradient/ios/SRSRadialGradient.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		4D2A8067079F48DA89632F23 /* libSRSRadialGradient.a */ = {isa = PBXFileReference; name = "libSRSRadialGradient.a"; path = "libSRSRadialGradient.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
+		26E75162148E47C0BA29144D /* libSRSRadialGradien-tvOS.a */ = {isa = PBXFileReference; name = "libSRSRadialGradien-tvOS.a"; path = "libSRSRadialGradien-tvOS.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -436,7 +374,7 @@
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
-				7DD6E3ED02314400ADB9BCDD /* libSRSRadialGradient.a in Frameworks */,
+				C9D38451F89E4BD294A18301 /* libSRSRadialGradient.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -452,7 +390,7 @@
 				2D02E4C61E0B4AEC006451C7 /* libRCTSettings-tvOS.a in Frameworks */,
 				2D02E4C71E0B4AEC006451C7 /* libRCTText-tvOS.a in Frameworks */,
 				2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */,
-				2D04B027796347798BC4E1EA /* libSRSRadialGradien-tvOS.a in Frameworks */,
+				94D1606C91D8444388BBC07D /* libSRSRadialGradien-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -524,37 +462,6 @@
 				00E356F11AD99517003FC87E /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		03F46AB4C4F347449A5D34CB /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				F66D211685EB4D5880B7110D /* CircularStd-Black.otf */,
-				E890BEE932B64B928107CB84 /* CircularStd-Black.woff */,
-				0FF8B625423041E69F18F725 /* CircularStd-Bold.otf */,
-				CFD7C213949D4B68B486A9F2 /* CircularStd-Bold.woff */,
-				11CAF11396874B86ABFA3ADF /* CircularStd-Book.otf */,
-				5FDD8CD482C849D297213235 /* CircularStd-Book.woff */,
-				6C3016312BA74E26B6314121 /* CircularStd-Medium.otf */,
-				5D7B79E15E3841CCBEE47018 /* CircularStd-Medium.woff */,
-				0E84CB588ADB4FBC869B2A6C /* CircularStd-Black.otf */,
-				22B9CBF3D4904BF088EBD0DF /* CircularStd-Black.woff */,
-				E1096FF661194A5988ED0ECC /* CircularStd-Bold.otf */,
-				32217A697FF4427192DD8666 /* CircularStd-Bold.woff */,
-				28D5FB6256344CA2AA146712 /* CircularStd-Book.otf */,
-				DB060366BEA549089DD253E7 /* CircularStd-Book.woff */,
-				6933D526619C405D9AE13199 /* CircularStd-Medium.otf */,
-				43715BC403A14746A310DBD8 /* CircularStd-Medium.woff */,
-				AFD4A31865104B519F43EB94 /* CircularStd-Black.otf */,
-				4FBB8B9F3F7941E69F53B8A0 /* CircularStd-Black.woff */,
-				983BB3AF82B64CFA97FF3410 /* CircularStd-Bold.otf */,
-				327CA54ABD3347D9819289A0 /* CircularStd-Bold.woff */,
-				084A2388773E46899A66A479 /* CircularStd-Book.otf */,
-				EC42ECA093B34FD485869822 /* CircularStd-Book.woff */,
-				62F98DE4697F4C4E93FBE054 /* CircularStd-Medium.otf */,
-				40EB750EE3AB469EB59E79A1 /* CircularStd-Medium.woff */,
-			);
-			name = Resources;
 			sourceTree = "<group>";
 		};
 		139105B71AF99BAD00B5F7CC /* Products */ = {
@@ -655,7 +562,7 @@
 				832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */,
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
-				F61AA6A0904B43CD8F9025A5 /* SRSRadialGradient.xcodeproj */,
+				27EC371D81084CC2B83D0B2D /* SRSRadialGradient.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -677,8 +584,6 @@
 				00E356EF1AD99517003FC87E /* medpassTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				03F46AB4C4F347449A5D34CB /* Resources */,
-				A758884921AC4E6D000EF36C /* Recovered References */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -692,24 +597,6 @@
 				00E356EE1AD99517003FC87E /* medpassTests.xctest */,
 				2D02E47B1E0B4A5D006451C7 /* medpass-tvOS.app */,
 				2D02E4901E0B4A5D006451C7 /* medpass-tvOSTests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		A758884921AC4E6D000EF36C /* Recovered References */ = {
-			isa = PBXGroup;
-			children = (
-				432F89312BC642778FFC5F25 /* libSRSRadialGradient.a */,
-				1C22E9F7D7064AB59D5CF911 /* libSRSRadialGradien-tvOS.a */,
-			);
-			name = "Recovered References";
-			sourceTree = "<group>";
-		};
-		A758886F21AC4E70000EF36C /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A758887421AC4E71000EF36C /* libSRSRadialGradient.a */,
-				A758887621AC4E71000EF36C /* libSRSRadialGradien-tvOS.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -881,10 +768,6 @@
 				{
 					ProductGroup = 146834001AC3E56700842450 /* Products */;
 					ProjectRef = 146833FF1AC3E56700842450 /* React.xcodeproj */;
-				},
-				{
-					ProductGroup = A758886F21AC4E70000EF36C /* Products */;
-					ProjectRef = F61AA6A0904B43CD8F9025A5 /* SRSRadialGradient.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -1150,20 +1033,6 @@
 			remoteRef = 832341B41AAA6A8300B99B32 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		A758887421AC4E71000EF36C /* libSRSRadialGradient.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = libSRSRadialGradient.a;
-			remoteRef = A758887321AC4E71000EF36C /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		A758887621AC4E71000EF36C /* libSRSRadialGradien-tvOS.a */ = {
-			isa = PBXReferenceProxy;
-			fileType = archive.ar;
-			path = "libSRSRadialGradien-tvOS.a";
-			remoteRef = A758887521AC4E71000EF36C /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
 		ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
@@ -1187,30 +1056,6 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				008B127DCD854528B1D6F745 /* CircularStd-Black.otf in Resources */,
-				590CC99FC16F4AEFB4253EBF /* CircularStd-Black.woff in Resources */,
-				BB985735C26440DF992E4327 /* CircularStd-Bold.otf in Resources */,
-				90E72899921946FDB52EA5F0 /* CircularStd-Bold.woff in Resources */,
-				5D7E8056CF8C4BB0A73FB9A0 /* CircularStd-Book.otf in Resources */,
-				FAB39BB67B1542DC9010369E /* CircularStd-Book.woff in Resources */,
-				C6569458C98643259519EA54 /* CircularStd-Medium.otf in Resources */,
-				7E0BD613AA214F66B291E8D5 /* CircularStd-Medium.woff in Resources */,
-				CE14C64B266D4DBBB6A0ADE4 /* CircularStd-Black.otf in Resources */,
-				F03855A061AF4C088298CDCB /* CircularStd-Black.woff in Resources */,
-				E8CD802932174AC88C9331CE /* CircularStd-Bold.otf in Resources */,
-				375C610898B844248DDD8B90 /* CircularStd-Bold.woff in Resources */,
-				657DFB1220F74CBAAA0BFA01 /* CircularStd-Book.otf in Resources */,
-				1694F668068E4821B7B6514D /* CircularStd-Book.woff in Resources */,
-				933E8FCCCA294CF781D5B967 /* CircularStd-Medium.otf in Resources */,
-				7A52A3A9122B4E37A5797BCF /* CircularStd-Medium.woff in Resources */,
-				CC1D0184FED340AFBD3BF4E5 /* CircularStd-Black.otf in Resources */,
-				148654567D2348389195877C /* CircularStd-Black.woff in Resources */,
-				F9873E172EB349F1BB220D34 /* CircularStd-Bold.otf in Resources */,
-				C79C5C06CFD443E9B9598360 /* CircularStd-Bold.woff in Resources */,
-				7F749F00BEDC4F76B4CBFFA2 /* CircularStd-Book.otf in Resources */,
-				7C6FF7AE58154CE2A84CC2C2 /* CircularStd-Book.woff in Resources */,
-				E455C107CD6D494284B90B2C /* CircularStd-Medium.otf in Resources */,
-				A6B6704D2C284A3D84B101A7 /* CircularStd-Medium.woff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1333,18 +1178,9 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
-				);
 				INFOPLIST_FILE = medpassTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1352,6 +1188,15 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/medpass.app/medpass";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
+				);
 			};
 			name = Debug;
 		};
@@ -1360,18 +1205,9 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
-				);
 				INFOPLIST_FILE = medpassTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1379,6 +1215,15 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/medpass.app/medpass";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
+				);
 			};
 			name = Release;
 		};
@@ -1388,10 +1233,6 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
-				);
 				INFOPLIST_FILE = medpass/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1402,6 +1243,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = medpass;
 				VERSIONING_SYSTEM = "apple-generic";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
+				);
 			};
 			name = Debug;
 		};
@@ -1410,10 +1255,6 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
-				);
 				INFOPLIST_FILE = medpass/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -1424,6 +1265,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = medpass;
 				VERSIONING_SYSTEM = "apple-generic";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
+				);
 			};
 			name = Release;
 		};
@@ -1439,17 +1284,8 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
-				);
 				INFOPLIST_FILE = "medpass-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1459,6 +1295,15 @@
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
+				);
 			};
 			name = Debug;
 		};
@@ -1474,17 +1319,8 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
-				);
 				INFOPLIST_FILE = "medpass-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1494,6 +1330,15 @@
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
+				);
 			};
 			name = Release;
 		};
@@ -1508,17 +1353,8 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
-				);
 				INFOPLIST_FILE = "medpass-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1528,6 +1364,15 @@
 				SDKROOT = appletvos;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/medpass-tvOS.app/medpass-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
+				);
 			};
 			name = Debug;
 		};
@@ -1542,17 +1387,8 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				HEADER_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
-				);
 				INFOPLIST_FILE = "medpass-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-					"\"$(SRCROOT)/$(TARGET_NAME)\"",
-				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
@@ -1562,6 +1398,15 @@
 				SDKROOT = appletvos;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/medpass-tvOS.app/medpass-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SRCROOT)/../node_modules/react-native-radial-gradient/ios",
+				);
 			};
 			name = Release;
 		};

@@ -17,7 +17,7 @@
   },
   "rnpm": {
     "assets": [
-      "./assets/fonts/CircularStd/"
+      "assets/fonts/CircularStd/"
     ]
   },
   "devDependencies": {
